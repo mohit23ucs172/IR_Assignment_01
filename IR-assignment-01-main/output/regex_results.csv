@@ -1,0 +1,101 @@
+id,original_post,normalized_post,repeated_char_count,chars_removed,char_reduction_percent,repeated_patterns
+1,omg this is sooooo goooood i loveeee it,omg this is soo good i lovee it,3,8,20.51282051282051,"ooooo, ooooo, eeee"
+2,noooooo way that's soooo crazyyy,noo way that's soo crazyy,3,7,21.875,"oooooo, oooo, yyy"
+3,yessssss finally happened brooooo,yess finally happened broo,2,7,21.21212121212121,"ssssss, ooooo"
+4,i can't believe this nooooooo this is baaaaad,i can't believe this noo this is baad,2,8,17.77777777777778,"ooooooo, aaaaa"
+5,pleaseeeeee helpppp me i'm dyyyying,pleasee helpp me i'm dyying,3,8,22.857142857142858,"eeeeee, pppp, yyyy"
+6,cooooool idea tbh pretty neeeeat,cool idea tbh pretty neeat,2,6,18.75,"oooooo, eeee"
+7,that's not faaaaair this is craaazy,that's not faair this is craazy,2,4,11.428571428571429,"aaaaa, aaa"
+8,happpppy birthday you're amazingggg,happy birthday you're amazingg,2,5,14.285714285714285,"ppppp, gggg"
+9,stooooop it right now i'm seriousssss,stoop it right now i'm seriouss,2,6,16.216216216216218,"ooooo, sssss"
+10,whaaaat no way that's imposssible,whaat no way that's impossible,2,3,9.090909090909092,"aaaa, sss"
+11,ohhhhh my gosh this is increditible,ohh my gosh this is increditible,1,3,8.571428571428571,hhhhh
+12,soooo tired i can't even moooove right now,soo tired i can't even moove right now,2,4,9.523809523809524,"oooo, oooo"
+13,greeeeat job everyone did sooo well,greeat job everyone did soo well,2,3,8.571428571428571,"eeee, ooo"
+14,i'm screeeaming this is too funnnny,i'm screeaming this is too funny,2,3,8.571428571428571,"eee, nnnn"
+15,waaaaay better than before def improooved,waay better than before def improoved,2,4,9.75609756097561,"aaaaa, ooo"
+16,seeeee what i meeeean everyone agrees now,see what i meean everyone agrees now,2,5,12.195121951219512,"eeeee, eeee"
+17,that's sooooo dumb i can't even deal,that's soo dumb i can't even deal,1,3,8.333333333333332,ooooo
+18,booooring the whole thing was meh really,booring the whole thing was meh really,1,2,5.0,oooo
+19,helllllo world welcome tooo my channel,hello world welcome too my channel,2,4,10.526315789473683,"lllll, ooo"
+20,thiiiis is absolutely amazingggg work,thiis is absolutely amazingg work,2,4,10.81081081081081,"iiii, gggg"
+21,naaaah don't do that stay foccused pls,naah don't do that stay foccused pls,1,2,5.263157894736842,aaaa
+22,yeeeaaaah buddy that's what i'm talkin bout,yeeaah buddy that's what i'm talkin bout,2,3,6.976744186046512,"eee, aaaa"
+23,yooooo check this cooool stuff out guys,yoo check this cool stuff out guys,2,5,12.82051282051282,"ooooo, oooo"
+24,huuuuuge difference i can't belieeeeve it,huuge difference i can't belieeve it,2,5,12.195121951219512,"uuuuu, eeee"
+25,i'm liiiiike totally mind blown rn seriously,i'm liike totally mind blown rn seriously,1,3,6.8181818181818175,iiiii
+26,thattttt's increeedible news congrats yo,thatt's increedible news congrats yo,2,4,10.0,"ttttt, eee"
+27,soooooooo many people showed up 2day,soo many people showed up 2day,1,6,16.666666666666664,oooooooo
+28,noooo please don't goooo i miss u already,noo please don't goo i miss u already,2,4,9.75609756097561,"oooo, oooo"
+29,goooood morning everyone have awesoooome day,good morning everyone have awesoome day,2,5,11.363636363636363,"ooooo, oooo"
+30,i'm freezeeeeeezing so colllld outside ugh,i'm freezeezing so colld outside ugh,2,6,14.285714285714285,"eeeeee, llll"
+31,alriiiight let's get this party starrrted,alriight let's get this party starrted,2,3,7.317073170731707,"iiii, rrr"
+32,terrrrrible idea change your mind pls,terrible idea change your mind pls,1,3,8.108108108108109,rrrrr
+33,luuuuv this song it's literally perrrfect,luuv this song it's literally perrfect,2,3,7.317073170731707,"uuuu, rrr"
+34,i'm deeeeeep in thought about this rn,i'm deep in thought about this rn,1,4,10.81081081081081,eeeeee
+35,suuuper excited for this weekend trips,suuper excited for this weekend trips,1,1,2.631578947368421,uuu
+36,reeeeeally need some help asap guys,reeally need some help asap guys,1,3,8.571428571428571,eeeee
+37,caaan't stop smiling abt this news wow,caan't stop smiling abt this news wow,1,1,2.631578947368421,aaa
+38,beeeauuutiful sunset captured it on cam,beeauutiful sunset captured it on cam,2,2,5.128205128205128,"eee, uuu"
+39,siiiick move nobody saw that coming bro,siick move nobody saw that coming bro,1,2,5.128205128205128,iiii
+40,diiiirty dirty business going down here,diirty dirty business going down here,1,2,5.128205128205128,iiii
+41,sweeeeet victory after such haaard work,sweet victory after such haard work,2,4,10.256410256410255,"eeeee, aaa"
+42,fuuuund this cool app everyone should try,fuund this cool app everyone should try,1,2,4.878048780487805,uuuu
+43,sooooo connected with people here fr,soo connected with people here fr,1,3,8.333333333333332,ooooo
+44,nooooo way i aint believin this story,noo way i aint believin this story,1,3,8.108108108108109,ooooo
+45,heeeyyy friends let's hang out tonight,heeyy friends let's hang out tonight,2,2,5.263157894736842,"eee, yyy"
+46,faaaar too complicated to explain tbh,faar too complicated to explain tbh,1,2,5.405405405405405,aaaa
+47,riiiiight move mate finally some sense,riight move mate finally some sense,1,3,7.894736842105263,iiiii
+48,chaaaaange your perspective on this real,chaange your perspective on this real,1,3,7.5,aaaaa
+49,aaaahhh moment that was so close call,aahh moment that was so close call,2,3,8.108108108108109,"aaaa, hhh"
+50,beeeee yourself don't let others judge ok,bee yourself don't let others judge ok,1,3,7.317073170731707,eeeee
+51,looooove the vibes in this place right now,loove the vibes in this place right now,1,3,7.142857142857142,ooooo
+52,dooooom and gloom energy is strong today,doom and gloom energy is strong today,1,3,7.5,ooooo
+53,baaaalance is key to life happiness mate,baalance is key to life happiness mate,1,2,5.0,aaaa
+54,creeeepy story i won't sleep tonight oof,creepy story i won't sleep tonight oof,1,2,5.0,eeee
+55,groooown so much since we last met crazy,groown so much since we last met crazy,1,2,5.0,oooo
+56,peeeeak performance that's world class,peeak performance that's world class,1,2,5.263157894736842,eeee
+57,stoooop eating junk start healthy now,stoop eating junk start healthy now,1,2,5.405405405405405,oooo
+58,waaaarriors mentality get that success,waarriors mentality get that success,1,2,5.263157894736842,aaaa
+59,jooooy of life never forget what matters,jooy of life never forget what matters,1,2,5.0,oooo
+60,gloooom lifted finally some sun yay,gloom lifted finally some sun yay,1,2,5.714285714285714,oooo
+61,pooooor choices lead to consequences dude,poor choices lead to consequences dude,1,3,7.317073170731707,ooooo
+62,blooooming flowers are so pretty rn,blooming flowers are so pretty rn,1,2,5.714285714285714,oooo
+63,gloooooow up everyone's impressed today,gloow up everyone's impressed today,1,4,10.256410256410255,oooooo
+64,swoooosh that's how you do it perfectly,swoosh that's how you do it perfectly,1,2,5.128205128205128,oooo
+65,flooooow with it don't resist change friend,floow with it don't resist change friend,1,3,6.976744186046512,ooooo
+66,eeeeeek scared but i got this attitude,eek scared but i got this attitude,1,4,10.526315789473683,eeeeee
+67,booooost confidence time to shine bright,boost confidence time to shine bright,1,3,7.5,ooooo
+68,threeeee strikes you're out game over bud,three strikes you're out game over bud,1,3,7.317073170731707,eeeee
+69,troooope of old ideas we need fresh ones,troope of old ideas we need fresh ones,1,2,5.0,oooo
+70,smooooky vibes in this lounge so chill,smooky vibes in this lounge so chill,1,2,5.263157894736842,oooo
+71,proooove yourself show what you got now,proove yourself show what you got now,1,2,5.128205128205128,oooo
+72,frooozen solid this weather is insane bad,froozen solid this weather is insane bad,1,1,2.4390243902439024,ooo
+73,groooomies let's keep this friendship tight,groomies let's keep this friendship tight,1,2,4.651162790697675,oooo
+74,theeeee best time of my entire life honestly,thee best time of my entire life honestly,1,3,6.8181818181818175,eeeee
+75,slooooow down take a break you need rest,sloow down take a break you need rest,1,3,7.5,ooooo
+76,skyyyyyyy looks amazing right now photo time,skyy looks amazing right now photo time,1,5,11.363636363636363,yyyyyyy
+77,shrooooom trip was absolutely mind bending,shroom trip was absolutely mind bending,1,3,7.142857142857142,ooooo
+78,thooooough question but i'll answer it true,thoough question but i'll answer it true,1,3,6.976744186046512,ooooo
+79,knowwwww better act better be better bro,knoww better act better be better bro,1,3,7.5,wwwww
+80,speeeeed of light nothing moves that fast,speed of light nothing moves that fast,1,3,7.317073170731707,eeeee
+81,pooooooint taken i agree with this now,pooint taken i agree with this now,1,4,10.526315789473683,oooooo
+82,toooows the line don't cross it anymore,toows the line don't cross it anymore,1,2,5.128205128205128,oooo
+83,woooooo celebration time we did it friends,woo celebration time we did it friends,1,4,9.523809523809524,oooooo
+84,floooods of emotions i'm overwhelmed now,floods of emotions i'm overwhelmed now,1,2,5.0,oooo
+85,pooooooled resources we can do this thing,pooled resources we can do this thing,1,4,9.75609756097561,oooooo
+86,swoooollen feet from all the walking today,swoollen feet from all the walking today,1,2,4.761904761904762,oooo
+87,spoooooned feed me the truth not lies pls,spooned feed me the truth not lies pls,1,3,7.317073170731707,ooooo
+88,snoooooow covered ground it's beautiful scene,snoow covered ground it's beautiful scene,1,4,8.88888888888889,oooooo
+89,sloooooope up the mountain getting higher,sloope up the mountain getting higher,1,4,9.75609756097561,oooooo
+90,crooooook move that's not cool at all dude,crook move that's not cool at all dude,1,4,9.523809523809524,oooooo
+91,brooooooke my heart completely destroyed,brooke my heart completely destroyed,1,4,10.0,oooooo
+92,grooooown apart we're just different now,groown apart we're just different now,1,3,7.5,ooooo
+93,froooooze in place couldn't move forward bro,frooze in place couldn't move forward bro,1,3,6.8181818181818175,ooooo
+94,proooooduced quality work deserves praise,prooduced quality work deserves praise,1,3,7.317073170731707,ooooo
+95,drooooopped everything just to help you out,droopped everything just to help you out,1,3,6.976744186046512,ooooo
+96,stoooooored memories that's lifelong now,stoored memories that's lifelong now,1,4,10.0,oooooo
+97,floooooored by this amazing opportunity wow,floored by this amazing opportunity wow,1,4,9.30232558139535,oooooo
+98,scooooooter rental was fun summer time,scooter rental was fun summer time,1,4,10.526315789473683,oooooo
+99,smoooooooth jazz vibes perfect for chilling,smooth jazz vibes perfect for chilling,1,5,11.627906976744185,ooooooo
+100,shooooooter skills got better keep trying,shooter skills got better keep trying,1,4,9.75609756097561,oooooo

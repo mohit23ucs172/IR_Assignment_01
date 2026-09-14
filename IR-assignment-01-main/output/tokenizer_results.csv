@@ -1,0 +1,101 @@
+id,text,nltk_word_tokens,nltk_word_hashtags,nltk_word_mentions,nltk_word_urls,nltk_word_punctuation,nltk_tweet_tokens,nltk_tweet_hashtags,nltk_tweet_mentions,nltk_tweet_urls,nltk_tweet_punctuation,spacy_tokens,spacy_hashtags,spacy_mentions,spacy_urls,spacy_punctuation,emoji_count
+1,just finished my workout feeling so pumped fitness...,9,0,0,0,0,9,0,0,0,0,9,0,0,0,0,0
+2,yo check this out https://bit.ly/3x2k9Lm absolutel...,9,0,0,0,1,7,0,0,1,0,7,0,0,1,0,0
+3,@john you gotta see this new drop from our fav art...,13,0,1,0,1,11,0,1,0,0,12,0,1,0,0,0
+4,ngl this pizza is fireee foodie pizzalover,7,0,0,0,0,7,0,0,0,0,7,0,0,0,0,0
+5,bruh i cant even rn lmaoooo this is wild comedy,10,0,0,0,0,10,0,0,0,0,11,0,0,0,0,0
+6,just got back from the beach fr fr summervibe beac...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+7,@sarah @mike meeting tmrw at 5 or should we resche...,12,0,2,0,2,10,0,2,0,0,10,0,2,0,0,0
+8,ugh windows update ruined my pc again smh frustrat...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+9,finally finished that project soooo relieved accom...,8,0,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+10,nah fam this aint it chief canceled,7,0,0,0,0,7,0,0,0,0,8,0,0,0,0,0
+11,lowkey obsessed with this new song https://spotify...,9,0,0,0,1,7,0,0,1,0,7,0,0,1,0,0
+12,@everyone attendance check project deadline is Fri...,9,0,1,0,1,8,0,1,0,0,8,0,1,0,0,0
+13,idek what to wear for the event tonite ngl fashion...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+14,just logged on and someones acc got hacked be care...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+15,yo this meme got me crying deadass memes,8,0,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+16,MondayMotivation keep grinding yall greatness awai...,6,0,0,0,0,6,0,0,0,0,7,0,0,0,0,0
+17,@alex did u catch the game last night insane perfo...,12,0,1,0,1,11,0,1,0,0,11,0,1,0,0,0
+18,why is my internet so trash rn tryna game but lag ...,14,0,0,0,0,14,0,0,0,0,14,0,0,0,0,0
+19,new vlog uploaded https://youtube.com/watch?v=xyz7...,10,0,0,0,2,6,0,0,1,0,6,0,0,1,0,0
+20,lol this dating app is ridiculous ngl matched 5 ti...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+21,@twitter please fix the algorithm its literally br...,10,0,1,0,1,9,0,1,0,0,9,0,1,0,0,0
+22,just vibing with the homies no cap squadgoals frie...,9,0,0,0,0,9,0,0,0,0,9,0,0,0,0,0
+23,cant believe its already Friday where did the week...,12,0,0,0,0,12,0,0,0,0,13,0,0,0,0,0
+24,best pizza of my life ever fr fr https://bit.ly/pi...,11,0,0,0,1,9,0,0,1,0,9,0,0,1,0,0
+25,@mom thanks for the birthday gift love u sm family...,11,0,1,0,1,10,0,1,0,0,10,0,1,0,0,0
+26,nah their take is cold bruh respectfully disagree ...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+27,currently procrastinating on this essay lol kill m...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+28,@shopify this customer service experience was awfu...,10,0,1,0,1,9,0,1,0,0,9,0,1,0,0,0
+29,throwbackthursday remember when TikTok almost got ...,8,0,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+30,literally just scrolling thru reddit at 3am instea...,11,0,0,0,0,11,0,0,0,0,12,0,0,0,0,0
+31,that new update is lowkey fire tho ngl pretty soli...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+32,just got vaccinated arm hurts a lil but necessary ...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+33,@gamestop why is that game still 60 can we get a s...,14,0,1,0,1,13,0,1,0,0,13,0,1,0,0,0
+34,imagine not knowing what based means in 2024 its g...,12,0,0,0,0,12,0,0,0,0,12,0,0,0,0,0
+35,new merch just dropped https://bit.ly/merch-store ...,10,0,0,0,1,8,0,0,1,0,8,0,0,1,0,0
+36,FridayNight vibes hitting different rn fr no cap,8,0,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+37,@everyone stop spreading misinformation pls fact c...,11,0,1,0,1,10,0,1,0,0,10,0,1,0,0,0
+38,honestly i respect the grind but this aint it chie...,13,0,0,0,0,13,0,0,0,0,14,0,0,0,0,0
+39,just realized i wasted 50 on this app bruh its mid...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+40,yo can i get some recommendations for good anime s...,12,0,0,0,0,12,0,0,0,0,12,0,0,0,0,0
+41,WCW to all the hardworking women out there killin ...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+42,ngl the ending was mid but story was goated fr fr,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+43,@support why hasnt my ticket been resolved yet its...,13,0,1,0,1,12,0,1,0,0,13,0,1,0,0,0
+44,just hit 100k followers ty all so much for the lov...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+45,this take has me feeling some type of way tbh not ...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+46,new podcast ep just dropped https://podcasts.com/e...,11,0,0,0,1,9,0,0,1,0,9,0,0,1,0,0
+47,@elon please explain this tweet because im confuse...,10,0,1,0,1,9,0,1,0,0,10,0,1,0,0,0
+48,cant stop listening to this song on repeat its act...,11,0,0,0,0,11,0,0,0,0,12,0,0,0,0,0
+49,just got ghosted by someone i really liked pain is...,12,0,0,0,0,12,0,0,0,0,12,0,0,0,0,0
+50,MondayMotivation starts now making moves and takin...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+51,yo this restaurant overcharges like crazy wont be ...,13,0,0,0,1,11,0,0,1,0,12,0,0,1,0,0
+52,@netflix add more good shows the catalogue is gett...,12,0,1,0,1,11,0,1,0,0,11,0,1,0,0,0
+53,literally cannot deal with autocorrect anymore it ...,11,0,0,0,0,10,0,0,0,0,11,0,0,0,0,0
+54,nah i aint falling for that scam lol almost clicke...,13,0,0,0,0,13,0,0,0,0,14,0,0,0,0,0
+55,just finished reading that book and it was absolut...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+56,SelfcareDay treating myself to a long bath and som...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+57,@hr can we get a meeting about the new policy have...,14,0,1,0,1,13,0,1,0,0,13,0,1,0,0,0
+58,cant believe this filter exists its actually hilar...,9,0,0,0,0,9,0,0,0,0,10,0,0,0,0,0
+59,ngl this is a vibe and i am here for it no cap fr ...,15,0,0,0,0,15,0,0,0,0,15,0,0,0,0,0
+60,just got a new job offer so excited to start fresh,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+61,this weather is actual trash going back to bed smh,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+62,@mods can we PLEASE moderate better this community...,12,0,1,0,1,11,0,1,0,0,11,0,1,0,0,0
+63,yo anyone wanna collab im dropping beats next week...,11,0,0,0,0,10,0,0,0,0,11,0,0,0,0,0
+64,just realized ive been wearing my shirt backwards ...,12,0,0,0,0,12,0,0,0,0,13,0,0,0,0,0
+65,FoodieFriday meal prep for the week lets goooo,8,0,0,0,0,8,0,0,0,0,8,0,0,0,0,0
+66,cant even begin to explain how mad i am rn omg ngl...,15,0,0,0,0,15,0,0,0,0,16,0,0,0,0,0
+67,@amazon ur packaging is terrible its literally des...,11,0,1,0,1,10,0,1,0,0,10,0,1,0,0,0
+68,new fitness milestone achieved never thought id ge...,10,0,0,0,0,10,0,0,0,0,11,0,0,0,0,0
+69,ngl the vibes have been off lately but im manifest...,11,0,0,0,0,11,0,0,0,0,12,0,0,0,0,0
+70,just got roasted by my friend and i cant even be m...,13,0,0,0,0,13,0,0,0,0,14,0,0,0,0,0
+71,this take is nuclear no cap https://bit.ly/article...,10,0,0,0,1,8,0,0,1,0,8,0,0,1,0,0
+72,@landlord still waiting on that maintenance reques...,11,0,1,0,1,10,0,1,0,0,10,0,1,0,0,0
+73,cant wait for the weekend sheesh this work week wa...,12,0,0,0,0,12,0,0,0,0,13,0,0,0,0,0
+74,yo new game update just dropped and its actually i...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+75,GratefulThursday thankful for all the real ones in...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+76,just got scammed out of 20 pls learn from my mista...,14,0,0,0,0,14,0,0,0,0,15,0,0,0,0,0
+77,@company your prices are actually outrageous ngl n...,11,0,1,0,1,10,0,1,0,0,10,0,1,0,0,0
+78,honestly this weather slaps different when ur outs...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+79,ngl the energy in this room is immaculate no bad v...,12,0,0,0,0,12,0,0,0,0,12,0,0,0,0,0
+80,just finished a binge watch session and my eyes hu...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+81,@admin the mods are missing again can we get some ...,13,0,1,0,1,12,0,1,0,0,12,0,1,0,0,0
+82,cant stop thinking about that meal earlier it hit ...,11,0,0,0,0,11,0,0,0,0,12,0,0,0,0,0
+83,SelfLoveMonth remember to be kind to yourself you ...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+84,yo this podcast changed my perspective on everythi...,10,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0
+85,just got rejected but ngl its honestly for the bes...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+86,ngl the haters gonna hate but imma keep grinding n...,12,0,0,0,0,11,0,0,0,0,12,0,0,0,0,0
+87,@customer why would you leave a bad review when yo...,14,0,1,0,1,13,0,1,0,0,13,0,1,0,0,0
+88,cant believe people still use internet explorer in...,12,0,0,0,0,12,0,0,0,0,13,0,0,0,0,0
+89,just tried a new recipe and it actually turned out...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+90,MotivationMonday your dreams are valid keep pushin...,9,0,0,0,0,9,0,0,0,0,9,0,0,0,0,0
+91,@friend thanks for always having my back means the...,12,0,1,0,1,11,0,1,0,0,11,0,1,0,0,0
+92,ngl the ending left me speechless this director is...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+93,just got my grades back and im actually hyped lowk...,13,0,0,0,0,13,0,0,0,0,14,0,0,0,0,0
+94,cant even scroll without seeing drama smh twitter ...,13,0,0,0,0,13,0,0,0,0,14,0,0,0,0,0
+95,yo new drop from artist just released and its abso...,11,0,0,0,0,11,0,0,0,0,11,0,0,0,0,0
+96,FridayFeels nothing beats that friday evening vibe...,9,0,0,0,0,9,0,0,0,0,9,0,0,0,0,0
+97,@mods can yall do something about the spam bots th...,13,0,1,0,1,12,0,1,0,0,14,0,1,0,0,0
+98,just realized i spent 4 hours on this app today wh...,13,0,0,0,0,13,0,0,0,0,13,0,0,0,0,0
+99,ngl the community has gone downhill but theres sti...,12,0,0,0,0,12,0,0,0,0,13,0,0,0,0,0
+100,@everyone if u see this share it support small cre...,12,0,1,0,1,11,0,1,0,0,11,0,1,0,0,0

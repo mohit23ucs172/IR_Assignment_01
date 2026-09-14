@@ -1,0 +1,4 @@
+Tokenizer,Avg Tokens,Hashtags Preserved,Mentions Preserved,URLs Preserved,Punctuation Tokens
+NLTK Word,11.08,0,23,0,0.32
+NLTK Tweet,10.63,0,23,8,0.0
+spaCy,10.93,0,23,8,0.0
